@@ -33,9 +33,9 @@ p{
     position: absolute;
 }
 .title a.forking{
-    left: 66%;
+    left: 10%;
     top: -20px;
-    rotate: -18deg;
+    rotate: -24deg;
 }
 .title a.paths{
     left: 78%;
